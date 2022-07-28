@@ -19,3 +19,16 @@ color: #F4F4F4;
     padding-left: 35px;
     padding-right: 35px;
 }
+.button-2{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+@media screen and (max-width:768px) {
+    .img-extend img {
+        width: 200%;
+    }
+}
