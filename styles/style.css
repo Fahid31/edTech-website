@@ -5,7 +5,7 @@ body{
     filter: brightness(45%);
 }
 .carousel-caption{
-    padding-bottom: 120px;
+    padding-bottom: 10%;
 }
 .carousel-caption-paragraph{
     font-style: normal;
@@ -30,5 +30,17 @@ color: #F4F4F4;
 @media screen and (max-width:768px) {
     .img-extend img {
         width: 200%;
+    }
+}
+@media screen and (max-width:990px){
+    .companies{
+        display: none;
+
+    }
+}
+@media screen and (max-width:1200px){
+    .footer{
+        width: 100%;
+
     }
 }
