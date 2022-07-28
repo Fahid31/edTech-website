@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.cover{
+    filter: brightness(45%);
+}
+.carousel-caption{
+    padding-bottom: 120px;
+}
+.carousel-caption-paragraph{
+    font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+text-align: center;
+color: #F4F4F4;
+}
+#button1{
+    padding-left: 35px;
+    padding-right: 35px;
+}
